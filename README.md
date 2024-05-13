@@ -3,7 +3,7 @@
     *  [:video_game:TankTrouble](https://github.com/BirouRares/Personal-Projects/tree/main/TankTrouble)
     *  [:scissors:Homework writing robot](https://github.com/BirouRares/Personal-Projects/tree/main/Homework%20writing%20robot)
     *  [:white_flower:SeeMe(Social Media App)](https://github.com/BirouRares/Personal-Projects/tree/main/SeeMe(Social%20Media%20App))
-    *  [:white_flower:Quiz App for law stundets](https://github.com/BirouRares/Personal-Projects/tree/main/QuizApp%20for%20law%20students)
+    *  [:telescope:Quiz App for law stundets](https://github.com/BirouRares/Personal-Projects/tree/main/QuizApp%20for%20law%20students)
 
 
 <h3 align="left">Connect with me:</h3>
